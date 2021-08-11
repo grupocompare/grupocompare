@@ -3,9 +3,10 @@
 ##
 
  <div>
-  <a href="https://github.com/herculanosilva">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=herculanosilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herculanosilva&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
+   
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=grupocompare&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br"/>
+ 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grupocompare&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
 
 
 <h2>Liguagens e Ferramentas:</h2>
@@ -19,18 +20,4 @@
 <code><img height="35" width="35" src="https://github.com/herculanosilva/herculanosilva/blob/main/assets/github-original.svg"></code>
 <code><img height="35" width="35" src="https://github.com/herculanosilva/herculanosilva/blob/main/assets/trello-plain-wordmark.svg"></code>
 <code><img height="35" width="35" src="https://github.com/herculanosilva/herculanosilva/blob/main/assets/vscode-original.svg"></code>
-
-  
- ##
- <div> 
-  <a href = "mailto:contato.herculanosilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/laecioherculano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
- 
- ##
- ![Snake animation](https://github.com/herculanosilva/herculanosilva/blob/output/github-contribution-grid-snake.svg)
-</div>
-
- ##
- <img src="https://komarev.com/ghpvc/?username=herculanosilva&color=brightgreen&label=Visualizacões+do+perfil" alt="herculanosilva"/>
  
